@@ -4,4 +4,4 @@ Personal App to practice the next things:
 - JetPack Compose
 - GraphQL
 
-![Preview1](images/1.png)
+![Preview1](image.png)
